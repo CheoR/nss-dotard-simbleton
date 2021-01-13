@@ -14,10 +14,3 @@ export const Business = ( { companyName, purchasingAgent, phoneWork, orders, com
     </section>
     `
 }
-
-/*
-<p class="info">Purchasing Agent: ${purchasingAgent.nameFirst} ${purchasingAgent.nameLast}</p>
-            <p class="info">Work Phone: ${phoneWork}</p>
-            <p class="info">Orders: ${orders}</p>
-            <p class="info">Industry: ${companyIndustry}</p>
-*/
